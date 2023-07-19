@@ -36,10 +36,6 @@ _Tools_
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat&logo=IntelliJ IDEA&logoColor=white"/><br><br>
 
-_Blog_
-
-<img src="https://img.shields.io/badge/Tistory-FF0000?style=flat&logo=Tistory&logoColor=white"/><br><br>
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunsik17)](https://solved.ac/sunsik17)<br><br>
 <img src="https://readmestats.999857.xyz/api?username=sunsik17&show_icons=true&theme=tokyonight">
 

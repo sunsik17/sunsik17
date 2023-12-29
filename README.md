@@ -38,9 +38,9 @@ ___
 
 ___
 
+</div>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunsik17)](https://solved.ac/sunsik17)<br><br>
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunsik17">
 <img src="https://readmestats.999857.xyz/api?username=sunsik17&show_icons=true&theme=tokyonight">
 <a href="https://opgc.me/#/users/sunsik17" target="_blank"><img src="https://api.opgc.me/githubs/users/sunsik17/tag/?theme=basic" /></a>
-
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunsik17&layout=pie&hide=css,html,javascript">

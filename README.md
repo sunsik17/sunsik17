@@ -38,7 +38,7 @@ Back-end stack
 
 ## Github Info
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunsik17&theme=nord_bright" width=81.2%>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunsik17&theme=nord_bright" width=96.8%>
 <img src="https://github-readme-stats.vercel.app/api?username=sunsik17&theme=catppuccin_latte&show_icons=true" height=200px> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunsik17&theme=nord_bright&exclude=html,javascript,css" height=17%> 
 
 

@@ -1,8 +1,6 @@
-<div align=left>
-<a href="https://velog.io/@sunsik08" target="_blank"><img src="https://img.shields.io/badge/velog-20C997?style=flat-square=appveyor&logo=Velog&logoColor=FFFFFF"/></a>
-<a href="17sunsik@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square=appveyor&logo=Gmail&logoColor=FFFFFF"/></a>
+[![velog](https://img.shields.io/badge/velog-20C997?style=flat-square=appveyor&logo=Velog&logoColor=FFFFFF)](https://velog.io/@sunsik08)
+[![gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square=appveyor&logo=Gmail&logoColor=FFFFFF)](mailto:17sunsik@gmail.co)
 
-  
 ## 👋 Introduction
 
 </div>
@@ -21,8 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align=left>
   
 Back-end stack
 

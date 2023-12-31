@@ -2,7 +2,6 @@
 [![gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=FFFFFF)](mailto:17sunsik@gmail.co)
 
 ## 👋 Introduction
-
 </div>
 
 <!--

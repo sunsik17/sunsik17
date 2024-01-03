@@ -29,7 +29,7 @@ Back-end stack
 
 |Infra|Tools|
 |:--|:--|
-|![docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white) <br> ![aws](https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white) ![aws-rds](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white) ![aws-ec2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white) | ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white) ![github](https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white) <br> ![intelij](https://img.shields.io/badge/IntelliJIDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white) |
+|![docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white) <br> ![aws](https://img.shields.io/badge/amazonaws-232F3E?style=flat&logo=amazonaws&logoColor=white) ![aws-rds](https://img.shields.io/badge/RDS-527FFF?style=flat&logo=amazonrds&logoColor=white) ![aws-ec2](https://img.shields.io/badge/EC2-FF9900?style=flat&logo=amazonec2&logoColor=white) | ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white) ![github](https://img.shields.io/badge/GitHub-222222?style=flat&logo=GitHub&logoColor=white) <br> ![intelij](https://img.shields.io/badge/IntelliJIDEA-007396?style=flat&logo=IntelliJIDEA&logoColor=white) ![Pycharm](https://img.shields.io/badge/Pycharm-6DB33F?style=flat&logo=Pycharm&logoColor=white) |
 
 
 ## Github Info

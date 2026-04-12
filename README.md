@@ -37,7 +37,6 @@ Back-end stack
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sunsik17&theme=nord_bright" width=818.97px> <img src="https://github-readme-stats.vercel.app/api?username=sunsik17&theme=catppuccin_latte&show_icons=true" height=200px> <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sunsik17&theme=nord_bright&exclude=html,javascript,css" height=17%> 
 
 
-
 ## Algorithm
 
 <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sunsik17" height=17% width=40%> 

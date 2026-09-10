@@ -1,0 +1,19 @@
+name: Latest velog posts
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # 매일 09:00 KST
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://v2.velog.io/rss/sunsik08"
+          max_post_count: 5

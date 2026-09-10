@@ -20,15 +20,26 @@
 
 <br>
 
-## 🛠 Tech Stack
+## 🎯 Goal
 
-| Category | Stack |
-|:--|:--|
-| **Language** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Framework** | ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white) ![MyBatis](https://img.shields.io/badge/MyBatis-B31B1B?style=flat-square) ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white) ![Django ORM](https://img.shields.io/badge/Django_ORM-092E20?style=flat-square&logo=django&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![H2](https://img.shields.io/badge/H2-09476B?style=flat-square&logo=h2database&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
-| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square) ![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square) ![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square) |
-| **Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white) ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=flat-square&logo=pycharm&logoColor=black) |
+> 기술보다 **비즈니스에 집중하는 개발자**가 되는 것을 목표로 합니다.
+
+- 기술은 목적이 아니라 문제를 해결하는 수단으로 선택합니다.
+- 오버엔지니어링을 지양합니다.
+
+<br>
+
+## ✍️ Latest Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [[MSA] MSA 배포 여정 — 삽질 기록](https://velog.io/@sunsik08/MSA-MSA-%EB%B0%B0%ED%8F%AC-%EC%97%AC%EC%A0%95-%EC%82%BD%EC%A7%88-%EA%B8%B0%EB%A1%9D)
+- [[MSA] kafka 이벤트 처리 문제](https://velog.io/@sunsik08/MSA-kafka-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%B2%98%EB%A6%AC-%EB%AC%B8%EC%A0%9C)
+- [Kafka 역직렬화 설정](https://velog.io/@sunsik08/Kafka-%EC%97%AD%EC%A7%81%EB%A0%AC%ED%99%94-%EC%84%A4%EC%A0%95)
+- [Docker 이해하기: 가상화에서 컨테이너까지](https://velog.io/@sunsik08/Docker-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-%EA%B0%80%EC%83%81%ED%99%94%EC%97%90%EC%84%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%EA%B9%8C%EC%A7%80)
+- [팀회의 - 스크럼](https://velog.io/@sunsik08/%ED%8C%80%ED%9A%8C%EC%9D%98-%EC%8A%A4%ED%81%AC%EB%9F%BC)
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [velog에서 더 보기](https://velog.io/@sunsik08)
 
 <br>
 

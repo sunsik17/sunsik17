@@ -2,7 +2,7 @@
 
 # Hi, I'm sunsik 👋
 
-**Backend Developer** · Java & Spring · Python & Django
+**Backend Developer**
 
 [![velog](https://img.shields.io/badge/velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@sunsik08)
 [![gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:17sunsik@gmail.com)
@@ -14,7 +14,7 @@
 
 ## 🙋 About Me
 
-- ☕ Java · Spring Boot, 🐍 Python · Django 기반의 **백엔드 개발자**입니다.
+- ☕ Java가 익숙한 **백엔드 개발자**입니다.
 - 🧩 매일 알고리즘 문제를 풀고 기록합니다. → [daily-algorithm](https://github.com/sunsik17/daily-algorithm)
 - ✍️ 공부한 내용은 [velog](https://velog.io/@sunsik08)에 정리합니다.
 

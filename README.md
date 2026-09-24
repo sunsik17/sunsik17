@@ -40,7 +40,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [velog에서 더 보기](https://velog.io/@sunsik08)
-
 <br>
 
 ## 📊 GitHub Stats
